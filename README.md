@@ -1,2 +1,2 @@
 # cadenmchan.github.io
-GitHub pages 
+GitHub Pages for DSCI 310
